@@ -1,2 +1,2 @@
-# Btech_G2J_ShubhAgrawal_24
+# Btech_G2J_Shubh_Agrawal_24
 C Programs
